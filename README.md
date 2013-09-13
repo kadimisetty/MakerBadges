@@ -4,7 +4,7 @@
 ## Badges
 ![Screenshot](https://raw.github.com/kadimisetty/MakerBadges/master/src/IconFrame%20copy.sketch/QuickLook/Thumbnail.png?raw=true)
 
-PS - This image is a low resolution preview of a
+This image is a low resolution preview of a
 work in progress. Please access the source for
 full reolution and higher quality.
 
