@@ -7,6 +7,9 @@
 ## Author
 [Sri Kadimisetty](sri.io)
 
+## Available Formats
+The source project is avilable as a [Sketch](http://www.bohemiancoding.com/sketch/) project
+
 
 ## License
 [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
