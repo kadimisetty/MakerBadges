@@ -24,6 +24,10 @@ full reolution and higher quality.
 - Open Source
     - Open Source Software Initiative
     - Open Source Hardware Initiative
+- Audio Visual Signals
+    - Recieving Visual input
+    - Recieving Auditory input
+    - Using the Kinect as a sensor
 
 ## Author
 [Sri Kadimisetty](sri.io)
