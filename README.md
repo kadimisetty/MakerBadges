@@ -1,4 +1,11 @@
-Playful-Badges
-==============
+# Maker Badges
+"Maker" relevant icon badges
 
-A series of icon badges for a workshop
+## Screenshot of work in progress
+
+## Author
+[Sri Kadimisetty](sri.io)
+
+
+## License
+[Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
