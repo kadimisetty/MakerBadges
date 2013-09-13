@@ -1,11 +1,27 @@
 # Maker Badges
 "Maker" themed icon badges for stickers, iron-ons etc.
 
-## Screenshot of work in progress
+## Badges
 <!-- ![Image](https://raw.github.com/kadimisetty/MakerBadges/master/img/screenshots/Screen%20Shot%202013-09-13%20at%208.34.52%20AM.png?raw=true) -->
 ![Screenshot](https://raw.github.com/kadimisetty/MakerBadges/master/src/IconFrame%20copy.sketch/QuickLook/Thumbnail.png?raw=true)
 - Low resolution screenshot
 - Work in progress
+
+## Listed in order of appearance
+1. Injured during making
+    - Band-Aid
+    - Stitches
+    - Visit the hospital
+    - Accidentally burned yourself
+2. 3D 
+    - 3D Glasses
+    - 3D Cube
+3. Boards
+    - Raspberry Pi
+    - Arduino
+4. Open Source
+    - Open Source Software Initiative
+    - Open Source Hardware Initiative
 
 ## Author
 [Sri Kadimisetty](sri.io)
