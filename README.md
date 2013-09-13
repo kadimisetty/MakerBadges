@@ -17,8 +17,14 @@ The source project is avilable as a [Sketch](http://www.bohemiancoding.com/sketc
 
 ## Notes
 - Please respect the indiviual copyright/trademark restrictions
-- [Raspberry Pi Trademark Rules](http://www.raspberrypi.org/trademark-rules)
-- [Arduino Trademark](http://arduino.cc/en/Main/trademark)
+    - [Raspberry Pi Trademark Rules](http://www.raspberrypi.org/trademark-rules)
+    - [Arduino Trademark](http://arduino.cc/en/Main/trademark)
+
+- The source is currently only available in Sketch's format.
+
+- Placing a request
+    - Open an issue
+    - If you dont mind the wait and uncertainity, mail me the request. (Please use the email in my github profile)
 
 ## License
 [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
