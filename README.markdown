@@ -40,6 +40,7 @@ full reolution and higher quality.
 - Programming Languages used
     - Processing
     - C
+    - Python
 
 ## Author
 [Sri Kadimisetty](sri.io)
@@ -55,6 +56,8 @@ The source project is avilable as a [Sketch](http://www.bohemiancoding.com/sketc
     - [Arduino Trademark](http://arduino.cc/en/Main/trademark)
     - [Net BSD Logo](http://www.netbsd.org/gallery/logos.html)
     - [Version of Processing Logo used](http://commons.wikimedia.org/wiki/File:Processing_Logo_Clipped.svg)
+    - [Python logo Guidelines](http://www.python.org/community/logos/) [Version Used](http://commons.wikimedia.org/wiki/File:Python-logo-notext.svg)
+    - [Ruby logo - Version Used](http://commons.wikimedia.org/wiki/File:Ruby_logo.svg)
 
 - The source is currently only available in Sketch's format.
 
