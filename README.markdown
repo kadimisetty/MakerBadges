@@ -37,6 +37,8 @@ full reolution and higher quality.
     - Net BSD
 - Skills
     - Oscilloscope
+- Programming Languages used
+    - Processing
 
 ## Author
 [Sri Kadimisetty](sri.io)
