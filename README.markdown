@@ -51,6 +51,7 @@ The source project is avilable as a [Sketch](http://www.bohemiancoding.com/sketc
     - [Raspberry Pi Trademark](http://www.raspberrypi.org/trademark-rules)
     - [Arduino Trademark](http://arduino.cc/en/Main/trademark)
     - [Net BSD Logo](http://www.netbsd.org/gallery/logos.html)
+    - [Version of Processing Logo used](http://commons.wikimedia.org/wiki/File:Processing_Logo_Clipped.svg)
 
 - The source is currently only available in Sketch's format.
 
