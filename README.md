@@ -47,8 +47,9 @@ The source project is avilable as a [Sketch](http://www.bohemiancoding.com/sketc
 
 ## Notes
 - Please respect the indiviual copyright/trademark restrictions
-    - [Raspberry Pi Trademark Rules](http://www.raspberrypi.org/trademark-rules)
+    - [Raspberry Pi Trademark](http://www.raspberrypi.org/trademark-rules)
     - [Arduino Trademark](http://arduino.cc/en/Main/trademark)
+    - [Net BSD Logo](http://www.netbsd.org/gallery/logos.html)
 
 - The source is currently only available in Sketch's format.
 
@@ -58,6 +59,7 @@ The source project is avilable as a [Sketch](http://www.bohemiancoding.com/sketc
 
 ## License
 
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+
 ![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
