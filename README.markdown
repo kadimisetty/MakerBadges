@@ -39,6 +39,7 @@ full reolution and higher quality.
     - Oscilloscope
 - Programming Languages used
     - Processing
+    - C
 
 ## Author
 [Sri Kadimisetty](sri.io)
