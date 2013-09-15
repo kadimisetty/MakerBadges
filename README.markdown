@@ -32,6 +32,7 @@ full reolution and higher quality.
     - Kinect
     - Speakers
     - LED Display
+    - Wi-Fi
 - Operating Systems
     - Net BSD
 - Skills
