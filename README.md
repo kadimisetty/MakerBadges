@@ -34,6 +34,8 @@ full reolution and higher quality.
     - LED Display
 - Operating Systems
     - Net BSD
+- Skills
+    - Oscilloscope
 
 ## Author
 [Sri Kadimisetty](sri.io)
