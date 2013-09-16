@@ -41,6 +41,8 @@ full reolution and higher quality.
     - Processing
     - C
     - Python
+- Bots
+    - Clawed Robot
 
 ## Author
 [Sri Kadimisetty](sri.io)
