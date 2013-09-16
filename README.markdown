@@ -32,6 +32,7 @@
     - LED Display
     - Wi-Fi
     - Phone
+    - Game Controller
 - Operating Systems
     - Net BSD
 - Skills
