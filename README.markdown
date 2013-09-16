@@ -47,7 +47,7 @@ in progress. Access the source for a vector image.
 
 
 ## Author
-[Sri Kadimisetty](sri.io)
+[Sri Kadimisetty](https://github.com/kadimisetty)
 
 
 ## Available Formats
