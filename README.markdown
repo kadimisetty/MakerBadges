@@ -2,11 +2,8 @@
 "Maker" themed icon badges for stickers, iron-ons etc.
 
 
-## Badges
+## Badges Preview
 ![Screenshot](https://raw.github.com/kadimisetty/MakerBadges/master/src/IconFrame%20copy.sketch/QuickLook/Thumbnail.png?raw=true)
-
-This image is a low resolution preview of a work
-in progress. Access the source for a vector image.
 
 
 ### Listed in order of appearance
