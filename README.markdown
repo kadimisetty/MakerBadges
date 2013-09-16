@@ -34,6 +34,7 @@ in progress. Access the source for a vector image.
     - Speakers
     - LED Display
     - Wi-Fi
+    - Phone
 - Operating Systems
     - Net BSD
 - Skills
