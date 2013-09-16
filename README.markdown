@@ -1,12 +1,13 @@
 # Maker Badges
 "Maker" themed icon badges for stickers, iron-ons etc.
 
+
 ## Badges
 ![Screenshot](https://raw.github.com/kadimisetty/MakerBadges/master/src/IconFrame%20copy.sketch/QuickLook/Thumbnail.png?raw=true)
 
-This image is a low resolution preview of a
-work in progress. Please access the source for
-full reolution and higher quality.
+This image is a low resolution preview of a work
+in progress. Access the source for a vector image.
+
 
 ### Listed in order of appearance
 - Basic Badge
@@ -44,12 +45,13 @@ full reolution and higher quality.
 - Bots
     - Clawed Robot holding an object(gear)
 
+
 ## Author
 [Sri Kadimisetty](sri.io)
 
 
 ## Available Formats
-The source project is avilable as a [Sketch](http://www.bohemiancoding.com/sketch/) project
+During active development, the source is available only in the native [Sketch.app](http://www.bohemiancoding.com/sketch/) project format.
 
 
 ## Notes
@@ -60,15 +62,11 @@ The source project is avilable as a [Sketch](http://www.bohemiancoding.com/sketc
     - [Version of Processing Logo used](http://commons.wikimedia.org/wiki/File:Processing_Logo_Clipped.svg)
     - [Python logo Guidelines](http://www.python.org/community/logos/) [Version Used](http://commons.wikimedia.org/wiki/File:Python-logo-notext.svg)
     - [Ruby logo - Version Used](http://commons.wikimedia.org/wiki/File:Ruby_logo.svg)
-
-- The source is currently only available in Sketch's format.
-
 - Placing a request
-    - Open an issue
-    - If you dont mind the wait and uncertainity, mail me the request. (Please use the email in my github profile)
+    - Open an Issue.
+    - If you dont mind the wait and uncertainity, use regular email(contact info in my [github profile](https://github.com/kadimisetty)).
 
 ## License
-
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)
 
 ![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
