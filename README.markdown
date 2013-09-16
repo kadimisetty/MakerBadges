@@ -42,7 +42,7 @@ full reolution and higher quality.
     - C
     - Python
 - Bots
-    - Clawed Robot
+    - Clawed Robot holding an object(gear)
 
 ## Author
 [Sri Kadimisetty](sri.io)
