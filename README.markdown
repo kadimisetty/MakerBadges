@@ -3,7 +3,8 @@
 
 
 ## Badges Preview
-![Screenshot](https://raw.github.com/kadimisetty/MakerBadges/master/src/IconFrame%20copy.sketch/QuickLook/Thumbnail.png?raw=true)
+![Screenshot]
+(https://raw.github.com/kadimisetty/MakerBadges/master/src/IconFrame%20copy.sketch/QuickLook/Preview.png)
 
 
 ### Listed in order of appearance
@@ -43,6 +44,9 @@
     - Python
 - Bots
     - Clawed Robot holding an object(gear)
+- Electronics
+    - LED (blue)
+
 
 
 ## Author
